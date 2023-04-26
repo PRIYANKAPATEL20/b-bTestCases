@@ -38,7 +38,9 @@ public class Homepage1 {
     }
     
     
-    public ProductPage clickBodyCareDropdown() {
+   /*
+     public ProductPage clickBodyCareDropdown() {
+   
     	 Actions actions = new Actions(driver);
     	 actions.moveToElement(bodyCareDropdown).perform();
     	// WebElement bodyWashAndShowerGel = driver.findElement(By.xpath("//ul[@aria-label='Bath & Shower']//a[@role='menuitem'][normalize-space()='Body Wash & Shower Gel']"));
@@ -46,5 +48,5 @@ public class Homepage1 {
 		return null;
 	        
         
-    }
+    } */
 }
