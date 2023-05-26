@@ -67,6 +67,7 @@ public class BathAndBodyTest  {
 	        checkOutButton.click();
              driver.quit();
              
+             //updated on may 26,,,,
 	      
 	        
 	        
